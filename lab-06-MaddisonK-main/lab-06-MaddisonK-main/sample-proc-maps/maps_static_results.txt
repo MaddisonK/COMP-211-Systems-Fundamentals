@@ -1,0 +1,59 @@
+pprint of all maps results in: 
+Original text: 00400000-004b6000 r-xp 00000000 00:57 23843046                           /mnt/learncli/workdir/tmp/bb
+ Map name: /mnt/learncli/workdir/tmp/bb
+ Start address: 4194304
+ End address: 4939776
+ Permissions: r-x
+Dependent attributes:
+ Section 3
+
+Original text: 006b6000-006bc000 rw-p 000b6000 00:57 23843046                           /mnt/learncli/workdir/tmp/bb
+ Map name: /mnt/learncli/workdir/tmp/bb
+ Start address: 7036928
+ End address: 7061504
+ Permissions: rw-
+Dependent attributes:
+ Section 5
+
+Original text: 0070a000-0072d000 rw-p 00000000 00:00 0                                  [heap]
+ Map name: [heap]
+ Start address: 7380992
+ End address: 7524352
+ Permissions: rw-
+Dependent attributes:
+ Section 2
+
+Original text: 7ffc2f3de000-7ffc2f3ff000 rw-p 00000000 00:00 0                          [stack]
+ Map name: [stack]
+ Start address: 140721101070336
+ End address: 140721101205504
+ Permissions: rw-
+Dependent attributes:
+ Section 0
+
+memmap_size(maps[0]) results in: 745472
+memmap_size(maps[1]) results in: 24576
+memmap_size(maps[2]) results in: 143360
+linking_type(maps) results in: static
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+total_bytes_of_section_type(maps, TEXT): 745472
+total_bytes_of_section_type(maps, RODATA): 0
+total_bytes_of_section_type(maps, DATA): 24576
+total_bytes_of_section_type(maps, HEAP): 143360
+total_bytes_of_section_type(maps, SHAREDLIB): 0
+total_bytes_of_section_type(maps, STACK): 135168
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+total_bytes_of_file_type(maps, SHARED_OBJ_FILE): 0
+total_bytes_of_file_type(maps, EXEC_OBJ_FILE): 770048
+total_bytes_of_file_type(maps, NA): 278528
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+total_pages_of_section_type(maps, TEXT): 182
+total_pages_of_section_type(maps, RODATA): 0
+total_pages_of_section_type(maps, DATA): 6
+total_pages_of_section_type(maps, HEAP): 35
+total_pages_of_section_type(maps, SHAREDLIB): 0
+total_pages_of_section_type(maps, STACK): 33
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+total_pages_of_file_type(maps, SHARED_OBJ_FILE): 0
+total_pages_of_file_type(maps, EXEC_OBJ_FILE)): 188
+total_pages_of_file_type(maps, NA): 68

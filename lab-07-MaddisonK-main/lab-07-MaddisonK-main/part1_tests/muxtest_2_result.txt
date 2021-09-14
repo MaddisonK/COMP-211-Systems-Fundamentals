@@ -1,0 +1,2 @@
+Enter Sub bit: Enter Bool bits: Enter shift bit: Enter math bit: Enter circuit type (arithmetic, shift, logic, shiftmux, mathmux):
+Enter A value: 0xEnter B value: 0xOperation on math multiplexer yields: 0x0000BEEF

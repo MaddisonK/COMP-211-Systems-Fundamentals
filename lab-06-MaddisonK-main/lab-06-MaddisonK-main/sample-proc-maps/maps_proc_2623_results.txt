@@ -1,0 +1,1251 @@
+pprint of all maps results in: 
+Original text: 55d169d55000-55d169d7e000 r-xp 00000000 fd:00 326923                     /usr/libexec/accounts-daemon
+ Map name: /usr/libexec/accounts-daemon
+ Start address: 94357912113152
+ End address: 94357912281088
+ Permissions: r-x
+Dependent attributes:
+ Section 3
+
+Original text: 55d169f7e000-55d169f82000 r--p 00029000 fd:00 326923                     /usr/libexec/accounts-daemon
+ Map name: /usr/libexec/accounts-daemon
+ Start address: 94357914378240
+ End address: 94357914394624
+ Permissions: r--
+Dependent attributes:
+ Section 4
+
+Original text: 55d169f82000-55d169f83000 rw-p 0002d000 fd:00 326923                     /usr/libexec/accounts-daemon
+ Map name: /usr/libexec/accounts-daemon
+ Start address: 94357914394624
+ End address: 94357914398720
+ Permissions: rw-
+Dependent attributes:
+ Section 5
+
+Original text: 55d16b9ab000-55d16ba6e000 rw-p 00000000 00:00 0                          [heap]
+ Map name: [heap]
+ Start address: 94357941825536
+ End address: 94357942624256
+ Permissions: rw-
+Dependent attributes:
+ Section 2
+
+Original text: 7efd04620000-7efd0462b000 r-xp 00000000 fd:00 33562515                   /usr/lib64/libnss_files-2.28.so
+ Map name: /usr/lib64/libnss_files-2.28.so
+ Start address: 139625165357056
+ End address: 139625165402112
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0462b000-7efd0482b000 ---p 0000b000 fd:00 33562515                   /usr/lib64/libnss_files-2.28.so
+ Map name: /usr/lib64/libnss_files-2.28.so
+ Start address: 139625165402112
+ End address: 139625167499264
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0482b000-7efd0482c000 r--p 0000b000 fd:00 33562515                   /usr/lib64/libnss_files-2.28.so
+ Map name: /usr/lib64/libnss_files-2.28.so
+ Start address: 139625167499264
+ End address: 139625167503360
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0482c000-7efd0482d000 rw-p 0000c000 fd:00 33562515                   /usr/lib64/libnss_files-2.28.so
+ Map name: /usr/lib64/libnss_files-2.28.so
+ Start address: 139625167503360
+ End address: 139625167507456
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd05040000-7efd05048000 r-xp 00000000 fd:00 34338619                   /usr/lib64/libnss_sss.so.2
+ Map name: /usr/lib64/libnss_sss.so.2
+ Start address: 139625175973888
+ End address: 139625176006656
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd05048000-7efd05247000 ---p 00008000 fd:00 34338619                   /usr/lib64/libnss_sss.so.2
+ Map name: /usr/lib64/libnss_sss.so.2
+ Start address: 139625176006656
+ End address: 139625178099712
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd05247000-7efd05248000 r--p 00007000 fd:00 34338619                   /usr/lib64/libnss_sss.so.2
+ Map name: /usr/lib64/libnss_sss.so.2
+ Start address: 139625178099712
+ End address: 139625178103808
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd05248000-7efd05249000 rw-p 00008000 fd:00 34338619                   /usr/lib64/libnss_sss.so.2
+ Map name: /usr/lib64/libnss_sss.so.2
+ Start address: 139625178103808
+ End address: 139625178107904
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd070d8000-7efd07350000 r--p 00000000 fd:00 6720                       /usr/lib/locale/en_US.utf8/LC_COLLATE
+ Map name: /usr/lib/locale/en_US.utf8/LC_COLLATE
+ Start address: 139625210150912
+ End address: 139625212739584
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd07350000-7efd0736f000 r-xp 00000000 fd:00 33562726                   /usr/lib64/libgpg-error.so.0.24.2
+ Map name: /usr/lib64/libgpg-error.so.0.24.2
+ Start address: 139625212739584
+ End address: 139625212866560
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0736f000-7efd0756f000 ---p 0001f000 fd:00 33562726                   /usr/lib64/libgpg-error.so.0.24.2
+ Map name: /usr/lib64/libgpg-error.so.0.24.2
+ Start address: 139625212866560
+ End address: 139625214963712
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0756f000-7efd07570000 r--p 0001f000 fd:00 33562726                   /usr/lib64/libgpg-error.so.0.24.2
+ Map name: /usr/lib64/libgpg-error.so.0.24.2
+ Start address: 139625214963712
+ End address: 139625214967808
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd07570000-7efd07571000 rw-p 00020000 fd:00 33562726                   /usr/lib64/libgpg-error.so.0.24.2
+ Map name: /usr/lib64/libgpg-error.so.0.24.2
+ Start address: 139625214967808
+ End address: 139625214971904
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd07578000-7efd0757e000 r-xp 00000000 fd:00 33562728                   /usr/lib64/libuuid.so.1.3.0
+ Map name: /usr/lib64/libuuid.so.1.3.0
+ Start address: 139625215000576
+ End address: 139625215025152
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0757e000-7efd0777e000 ---p 00006000 fd:00 33562728                   /usr/lib64/libuuid.so.1.3.0
+ Map name: /usr/lib64/libuuid.so.1.3.0
+ Start address: 139625215025152
+ End address: 139625217122304
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0777e000-7efd0777f000 r--p 00006000 fd:00 33562728                   /usr/lib64/libuuid.so.1.3.0
+ Map name: /usr/lib64/libuuid.so.1.3.0
+ Start address: 139625217122304
+ End address: 139625217126400
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd07780000-7efd077cc000 r-xp 00000000 fd:00 33866968                   /usr/lib64/libblkid.so.1.1.0
+ Map name: /usr/lib64/libblkid.so.1.1.0
+ Start address: 139625217130496
+ End address: 139625217441792
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd077cc000-7efd079cb000 ---p 0004c000 fd:00 33866968                   /usr/lib64/libblkid.so.1.1.0
+ Map name: /usr/lib64/libblkid.so.1.1.0
+ Start address: 139625217441792
+ End address: 139625219534848
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd079cb000-7efd079d0000 r--p 0004b000 fd:00 33866968                   /usr/lib64/libblkid.so.1.1.0
+ Map name: /usr/lib64/libblkid.so.1.1.0
+ Start address: 139625219534848
+ End address: 139625219555328
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd079d0000-7efd079d1000 rw-p 00050000 fd:00 33866968                   /usr/lib64/libblkid.so.1.1.0
+ Map name: /usr/lib64/libblkid.so.1.1.0
+ Start address: 139625219555328
+ End address: 139625219559424
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd079d8000-7efd07a5b000 r-xp 00000000 fd:00 33562382                   /usr/lib64/libpcre2-8.so.0.7.1
+ Map name: /usr/lib64/libpcre2-8.so.0.7.1
+ Start address: 139625219588096
+ End address: 139625220124672
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd07a5b000-7efd07c5a000 ---p 00083000 fd:00 33562382                   /usr/lib64/libpcre2-8.so.0.7.1
+ Map name: /usr/lib64/libpcre2-8.so.0.7.1
+ Start address: 139625220124672
+ End address: 139625222217728
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd07c5a000-7efd07c5b000 r--p 00082000 fd:00 33562382                   /usr/lib64/libpcre2-8.so.0.7.1
+ Map name: /usr/lib64/libpcre2-8.so.0.7.1
+ Start address: 139625222217728
+ End address: 139625222221824
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd07c5b000-7efd07c5c000 rw-p 00083000 fd:00 33562382                   /usr/lib64/libpcre2-8.so.0.7.1
+ Map name: /usr/lib64/libpcre2-8.so.0.7.1
+ Start address: 139625222221824
+ End address: 139625222225920
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd07c60000-7efd07cf6000 r-xp 00000000 fd:00 33563297                   /usr/lib64/libgmp.so.10.3.2
+ Map name: /usr/lib64/libgmp.so.10.3.2
+ Start address: 139625222242304
+ End address: 139625222856704
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd07cf6000-7efd07ef5000 ---p 00096000 fd:00 33563297                   /usr/lib64/libgmp.so.10.3.2
+ Map name: /usr/lib64/libgmp.so.10.3.2
+ Start address: 139625222856704
+ End address: 139625224949760
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd07ef5000-7efd07ef7000 r--p 00095000 fd:00 33563297                   /usr/lib64/libgmp.so.10.3.2
+ Map name: /usr/lib64/libgmp.so.10.3.2
+ Start address: 139625224949760
+ End address: 139625224957952
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd07ef7000-7efd07ef8000 rw-p 00097000 fd:00 33563297                   /usr/lib64/libgmp.so.10.3.2
+ Map name: /usr/lib64/libgmp.so.10.3.2
+ Start address: 139625224957952
+ End address: 139625224962048
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd07ef8000-7efd07f26000 r-xp 00000000 fd:00 33563757                   /usr/lib64/libhogweed.so.4.5
+ Map name: /usr/lib64/libhogweed.so.4.5
+ Start address: 139625224962048
+ End address: 139625225150464
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd07f26000-7efd08126000 ---p 0002e000 fd:00 33563757                   /usr/lib64/libhogweed.so.4.5
+ Map name: /usr/lib64/libhogweed.so.4.5
+ Start address: 139625225150464
+ End address: 139625227247616
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08126000-7efd08127000 r--p 0002e000 fd:00 33563757                   /usr/lib64/libhogweed.so.4.5
+ Map name: /usr/lib64/libhogweed.so.4.5
+ Start address: 139625227247616
+ End address: 139625227251712
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08128000-7efd0815f000 r-xp 00000000 fd:00 33563759                   /usr/lib64/libnettle.so.6.5
+ Map name: /usr/lib64/libnettle.so.6.5
+ Start address: 139625227255808
+ End address: 139625227481088
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0815f000-7efd0835e000 ---p 00037000 fd:00 33563759                   /usr/lib64/libnettle.so.6.5
+ Map name: /usr/lib64/libnettle.so.6.5
+ Start address: 139625227481088
+ End address: 139625229574144
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0835e000-7efd08360000 r--p 00036000 fd:00 33563759                   /usr/lib64/libnettle.so.6.5
+ Map name: /usr/lib64/libnettle.so.6.5
+ Start address: 139625229574144
+ End address: 139625229582336
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08360000-7efd08361000 rw-p 00038000 fd:00 33563759                   /usr/lib64/libnettle.so.6.5
+ Map name: /usr/lib64/libnettle.so.6.5
+ Start address: 139625229582336
+ End address: 139625229586432
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08368000-7efd0837a000 r-xp 00000000 fd:00 33563900                   /usr/lib64/libtasn1.so.6.5.5
+ Map name: /usr/lib64/libtasn1.so.6.5.5
+ Start address: 139625229615104
+ End address: 139625229688832
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0837a000-7efd08579000 ---p 00012000 fd:00 33563900                   /usr/lib64/libtasn1.so.6.5.5
+ Map name: /usr/lib64/libtasn1.so.6.5.5
+ Start address: 139625229688832
+ End address: 139625231781888
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08579000-7efd0857a000 r--p 00011000 fd:00 33563900                   /usr/lib64/libtasn1.so.6.5.5
+ Map name: /usr/lib64/libtasn1.so.6.5.5
+ Start address: 139625231781888
+ End address: 139625231785984
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0857a000-7efd0857b000 rw-p 00012000 fd:00 33563900                   /usr/lib64/libtasn1.so.6.5.5
+ Map name: /usr/lib64/libtasn1.so.6.5.5
+ Start address: 139625231785984
+ End address: 139625231790080
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08580000-7efd086fd000 r-xp 00000000 fd:00 33563767                   /usr/lib64/libunistring.so.2.1.0
+ Map name: /usr/lib64/libunistring.so.2.1.0
+ Start address: 139625231810560
+ End address: 139625233371136
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd086fd000-7efd088fc000 ---p 0017d000 fd:00 33563767                   /usr/lib64/libunistring.so.2.1.0
+ Map name: /usr/lib64/libunistring.so.2.1.0
+ Start address: 139625233371136
+ End address: 139625235464192
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd088fc000-7efd08900000 r--p 0017c000 fd:00 33563767                   /usr/lib64/libunistring.so.2.1.0
+ Map name: /usr/lib64/libunistring.so.2.1.0
+ Start address: 139625235464192
+ End address: 139625235480576
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08900000-7efd08901000 rw-p 00180000 fd:00 33563767                   /usr/lib64/libunistring.so.2.1.0
+ Map name: /usr/lib64/libunistring.so.2.1.0
+ Start address: 139625235480576
+ End address: 139625235484672
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08908000-7efd08924000 r-xp 00000000 fd:00 33563769                   /usr/lib64/libidn2.so.0.3.6
+ Map name: /usr/lib64/libidn2.so.0.3.6
+ Start address: 139625235513344
+ End address: 139625235628032
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08924000-7efd08b24000 ---p 0001c000 fd:00 33563769                   /usr/lib64/libidn2.so.0.3.6
+ Map name: /usr/lib64/libidn2.so.0.3.6
+ Start address: 139625235628032
+ End address: 139625237725184
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08b24000-7efd08b25000 r--p 0001c000 fd:00 33563769                   /usr/lib64/libidn2.so.0.3.6
+ Map name: /usr/lib64/libidn2.so.0.3.6
+ Start address: 139625237725184
+ End address: 139625237729280
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08b28000-7efd08c47000 r-xp 00000000 fd:00 33563195                   /usr/lib64/libp11-kit.so.0.3.0
+ Map name: /usr/lib64/libp11-kit.so.0.3.0
+ Start address: 139625237741568
+ End address: 139625238917120
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08c47000-7efd08e46000 ---p 0011f000 fd:00 33563195                   /usr/lib64/libp11-kit.so.0.3.0
+ Map name: /usr/lib64/libp11-kit.so.0.3.0
+ Start address: 139625238917120
+ End address: 139625241010176
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08e46000-7efd08e51000 r--p 0011e000 fd:00 33563195                   /usr/lib64/libp11-kit.so.0.3.0
+ Map name: /usr/lib64/libp11-kit.so.0.3.0
+ Start address: 139625241010176
+ End address: 139625241055232
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08e51000-7efd08e5b000 rw-p 00129000 fd:00 33563195                   /usr/lib64/libp11-kit.so.0.3.0
+ Map name: /usr/lib64/libp11-kit.so.0.3.0
+ Start address: 139625241055232
+ End address: 139625241096192
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08e60000-7efd08f76000 r-xp 00000000 fd:00 33562735                   /usr/lib64/libgcrypt.so.20.2.3
+ Map name: /usr/lib64/libgcrypt.so.20.2.3
+ Start address: 139625241116672
+ End address: 139625242255360
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd08f76000-7efd09175000 ---p 00116000 fd:00 33562735                   /usr/lib64/libgcrypt.so.20.2.3
+ Map name: /usr/lib64/libgcrypt.so.20.2.3
+ Start address: 139625242255360
+ End address: 139625244348416
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09175000-7efd09177000 r--p 00115000 fd:00 33562735                   /usr/lib64/libgcrypt.so.20.2.3
+ Map name: /usr/lib64/libgcrypt.so.20.2.3
+ Start address: 139625244348416
+ End address: 139625244356608
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09177000-7efd0917c000 rw-p 00117000 fd:00 33562735                   /usr/lib64/libgcrypt.so.20.2.3
+ Map name: /usr/lib64/libgcrypt.so.20.2.3
+ Start address: 139625244356608
+ End address: 139625244377088
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09180000-7efd09184000 r-xp 00000000 fd:00 33563007                   /usr/lib64/libcap.so.2.26
+ Map name: /usr/lib64/libcap.so.2.26
+ Start address: 139625244393472
+ End address: 139625244409856
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09184000-7efd09384000 ---p 00004000 fd:00 33563007                   /usr/lib64/libcap.so.2.26
+ Map name: /usr/lib64/libcap.so.2.26
+ Start address: 139625244409856
+ End address: 139625246507008
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09384000-7efd09385000 r--p 00004000 fd:00 33563007                   /usr/lib64/libcap.so.2.26
+ Map name: /usr/lib64/libcap.so.2.26
+ Start address: 139625246507008
+ End address: 139625246511104
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09385000-7efd09386000 rw-p 00005000 fd:00 33563007                   /usr/lib64/libcap.so.2.26
+ Map name: /usr/lib64/libcap.so.2.26
+ Start address: 139625246511104
+ End address: 139625246515200
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09388000-7efd0939e000 r-xp 00000000 fd:00 33563751                   /usr/lib64/liblz4.so.1.8.1
+ Map name: /usr/lib64/liblz4.so.1.8.1
+ Start address: 139625246523392
+ End address: 139625246613504
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0939e000-7efd0959d000 ---p 00016000 fd:00 33563751                   /usr/lib64/liblz4.so.1.8.1
+ Map name: /usr/lib64/liblz4.so.1.8.1
+ Start address: 139625246613504
+ End address: 139625248706560
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0959d000-7efd0959e000 r--p 00015000 fd:00 33563751                   /usr/lib64/liblz4.so.1.8.1
+ Map name: /usr/lib64/liblz4.so.1.8.1
+ Start address: 139625248706560
+ End address: 139625248710656
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd095a0000-7efd095c5000 r-xp 00000000 fd:00 33562738                   /usr/lib64/liblzma.so.5.2.4
+ Map name: /usr/lib64/liblzma.so.5.2.4
+ Start address: 139625248718848
+ End address: 139625248870400
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd095c5000-7efd097c5000 ---p 00025000 fd:00 33562738                   /usr/lib64/liblzma.so.5.2.4
+ Map name: /usr/lib64/liblzma.so.5.2.4
+ Start address: 139625248870400
+ End address: 139625250967552
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd097c5000-7efd097c6000 r--p 00025000 fd:00 33562738                   /usr/lib64/liblzma.so.5.2.4
+ Map name: /usr/lib64/liblzma.so.5.2.4
+ Start address: 139625250967552
+ End address: 139625250971648
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd097c8000-7efd097cf000 r-xp 00000000 fd:00 33562521                   /usr/lib64/librt-2.28.so
+ Map name: /usr/lib64/librt-2.28.so
+ Start address: 139625250979840
+ End address: 139625251008512
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd097cf000-7efd099cf000 ---p 00007000 fd:00 33562521                   /usr/lib64/librt-2.28.so
+ Map name: /usr/lib64/librt-2.28.so
+ Start address: 139625251008512
+ End address: 139625253105664
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd099cf000-7efd099d0000 r--p 00007000 fd:00 33562521                   /usr/lib64/librt-2.28.so
+ Map name: /usr/lib64/librt-2.28.so
+ Start address: 139625253105664
+ End address: 139625253109760
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd099d0000-7efd099d1000 rw-p 00008000 fd:00 33562521                   /usr/lib64/librt-2.28.so
+ Map name: /usr/lib64/librt-2.28.so
+ Start address: 139625253109760
+ End address: 139625253113856
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd099d8000-7efd09a2d000 r-xp 00000000 fd:00 33866837                   /usr/lib64/libmount.so.1.1.0
+ Map name: /usr/lib64/libmount.so.1.1.0
+ Start address: 139625253142528
+ End address: 139625253490688
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09a2d000-7efd09c2d000 ---p 00055000 fd:00 33866837                   /usr/lib64/libmount.so.1.1.0
+ Map name: /usr/lib64/libmount.so.1.1.0
+ Start address: 139625253490688
+ End address: 139625255587840
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09c2d000-7efd09c30000 r--p 00055000 fd:00 33866837                   /usr/lib64/libmount.so.1.1.0
+ Map name: /usr/lib64/libmount.so.1.1.0
+ Start address: 139625255587840
+ End address: 139625255600128
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09c30000-7efd09c31000 rw-p 00058000 fd:00 33866837                   /usr/lib64/libmount.so.1.1.0
+ Map name: /usr/lib64/libmount.so.1.1.0
+ Start address: 139625255600128
+ End address: 139625255604224
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09c38000-7efd09c4c000 r-xp 00000000 fd:00 33562519                   /usr/lib64/libresolv-2.28.so
+ Map name: /usr/lib64/libresolv-2.28.so
+ Start address: 139625255632896
+ End address: 139625255714816
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09c4c000-7efd09e4b000 ---p 00014000 fd:00 33562519                   /usr/lib64/libresolv-2.28.so
+ Map name: /usr/lib64/libresolv-2.28.so
+ Start address: 139625255714816
+ End address: 139625257807872
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09e4b000-7efd09e4c000 r--p 00013000 fd:00 33562519                   /usr/lib64/libresolv-2.28.so
+ Map name: /usr/lib64/libresolv-2.28.so
+ Start address: 139625257807872
+ End address: 139625257811968
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09e4c000-7efd09e4d000 rw-p 00014000 fd:00 33562519                   /usr/lib64/libresolv-2.28.so
+ Map name: /usr/lib64/libresolv-2.28.so
+ Start address: 139625257811968
+ End address: 139625257816064
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09e50000-7efd09e77000 r-xp 00000000 fd:00 33562388                   /usr/lib64/libselinux.so.1
+ Map name: /usr/lib64/libselinux.so.1
+ Start address: 139625257828352
+ End address: 139625257988096
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd09e77000-7efd0a077000 ---p 00027000 fd:00 33562388                   /usr/lib64/libselinux.so.1
+ Map name: /usr/lib64/libselinux.so.1
+ Start address: 139625257988096
+ End address: 139625260085248
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0a077000-7efd0a078000 r--p 00027000 fd:00 33562388                   /usr/lib64/libselinux.so.1
+ Map name: /usr/lib64/libselinux.so.1
+ Start address: 139625260085248
+ End address: 139625260089344
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0a078000-7efd0a079000 rw-p 00028000 fd:00 33562388                   /usr/lib64/libselinux.so.1
+ Map name: /usr/lib64/libselinux.so.1
+ Start address: 139625260089344
+ End address: 139625260093440
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0a080000-7efd0a096000 r-xp 00000000 fd:00 33562711                   /usr/lib64/libz.so.1.2.11
+ Map name: /usr/lib64/libz.so.1.2.11
+ Start address: 139625260122112
+ End address: 139625260212224
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0a096000-7efd0a295000 ---p 00016000 fd:00 33562711                   /usr/lib64/libz.so.1.2.11
+ Map name: /usr/lib64/libz.so.1.2.11
+ Start address: 139625260212224
+ End address: 139625262305280
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0a295000-7efd0a296000 r--p 00015000 fd:00 33562711                   /usr/lib64/libz.so.1.2.11
+ Map name: /usr/lib64/libz.so.1.2.11
+ Start address: 139625262305280
+ End address: 139625262309376
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0a298000-7efd0a308000 r-xp 00000000 fd:00 33563255                   /usr/lib64/libpcre.so.1.2.10
+ Map name: /usr/lib64/libpcre.so.1.2.10
+ Start address: 139625262317568
+ End address: 139625262776320
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0a308000-7efd0a507000 ---p 00070000 fd:00 33563255                   /usr/lib64/libpcre.so.1.2.10
+ Map name: /usr/lib64/libpcre.so.1.2.10
+ Start address: 139625262776320
+ End address: 139625264869376
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0a507000-7efd0a508000 r--p 0006f000 fd:00 33563255                   /usr/lib64/libpcre.so.1.2.10
+ Map name: /usr/lib64/libpcre.so.1.2.10
+ Start address: 139625264869376
+ End address: 139625264873472
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0a508000-7efd0a509000 rw-p 00070000 fd:00 33563255                   /usr/lib64/libpcre.so.1.2.10
+ Map name: /usr/lib64/libpcre.so.1.2.10
+ Start address: 139625264873472
+ End address: 139625264877568
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0a510000-7efd0a6ba000 r-xp 00000000 fd:00 34096205                   /usr/lib64/libgnutls.so.30.24.0
+ Map name: /usr/lib64/libgnutls.so.30.24.0
+ Start address: 139625264906240
+ End address: 139625266651136
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0a6ba000-7efd0a8b9000 ---p 001aa000 fd:00 34096205                   /usr/lib64/libgnutls.so.30.24.0
+ Map name: /usr/lib64/libgnutls.so.30.24.0
+ Start address: 139625266651136
+ End address: 139625268744192
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0a8b9000-7efd0a8ca000 r--p 001a9000 fd:00 34096205                   /usr/lib64/libgnutls.so.30.24.0
+ Map name: /usr/lib64/libgnutls.so.30.24.0
+ Start address: 139625268744192
+ End address: 139625268813824
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0a8ca000-7efd0a8cb000 rw-p 001ba000 fd:00 34096205                   /usr/lib64/libgnutls.so.30.24.0
+ Map name: /usr/lib64/libgnutls.so.30.24.0
+ Start address: 139625268813824
+ End address: 139625268817920
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0a8d0000-7efd0a8d3000 r-xp 00000000 fd:00 33562505                   /usr/lib64/libdl-2.28.so
+ Map name: /usr/lib64/libdl-2.28.so
+ Start address: 139625268838400
+ End address: 139625268850688
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0a8d3000-7efd0aad2000 ---p 00003000 fd:00 33562505                   /usr/lib64/libdl-2.28.so
+ Map name: /usr/lib64/libdl-2.28.so
+ Start address: 139625268850688
+ End address: 139625270943744
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0aad2000-7efd0aad3000 r--p 00002000 fd:00 33562505                   /usr/lib64/libdl-2.28.so
+ Map name: /usr/lib64/libdl-2.28.so
+ Start address: 139625270943744
+ End address: 139625270947840
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0aad3000-7efd0aad4000 rw-p 00003000 fd:00 33562505                   /usr/lib64/libdl-2.28.so
+ Map name: /usr/lib64/libdl-2.28.so
+ Start address: 139625270947840
+ End address: 139625270951936
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0aad8000-7efd0aadf000 r-xp 00000000 fd:00 33563190                   /usr/lib64/libffi.so.6.0.2
+ Map name: /usr/lib64/libffi.so.6.0.2
+ Start address: 139625270968320
+ End address: 139625270996992
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0aadf000-7efd0acdf000 ---p 00007000 fd:00 33563190                   /usr/lib64/libffi.so.6.0.2
+ Map name: /usr/lib64/libffi.so.6.0.2
+ Start address: 139625270996992
+ End address: 139625273094144
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0acdf000-7efd0ace0000 r--p 00007000 fd:00 33563190                   /usr/lib64/libffi.so.6.0.2
+ Map name: /usr/lib64/libffi.so.6.0.2
+ Start address: 139625273094144
+ End address: 139625273098240
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0ace0000-7efd0ace1000 rw-p 00008000 fd:00 33563190                   /usr/lib64/libffi.so.6.0.2
+ Map name: /usr/lib64/libffi.so.6.0.2
+ Start address: 139625273098240
+ End address: 139625273102336
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0ace8000-7efd0ad03000 r-xp 00000000 fd:00 33562517                   /usr/lib64/libpthread-2.28.so
+ Map name: /usr/lib64/libpthread-2.28.so
+ Start address: 139625273131008
+ End address: 139625273241600
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0ad03000-7efd0af02000 ---p 0001b000 fd:00 33562517                   /usr/lib64/libpthread-2.28.so
+ Map name: /usr/lib64/libpthread-2.28.so
+ Start address: 139625273241600
+ End address: 139625275334656
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0af02000-7efd0af03000 r--p 0001a000 fd:00 33562517                   /usr/lib64/libpthread-2.28.so
+ Map name: /usr/lib64/libpthread-2.28.so
+ Start address: 139625275334656
+ End address: 139625275338752
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0af03000-7efd0af04000 rw-p 0001b000 fd:00 33562517                   /usr/lib64/libpthread-2.28.so
+ Map name: /usr/lib64/libpthread-2.28.so
+ Start address: 139625275338752
+ End address: 139625275342848
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0af08000-7efd0afa8000 r-xp 00000000 fd:00 33866884                   /usr/lib64/libsystemd.so.0.23.0
+ Map name: /usr/lib64/libsystemd.so.0.23.0
+ Start address: 139625275359232
+ End address: 139625276014592
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0afa8000-7efd0b1a7000 ---p 000a0000 fd:00 33866884                   /usr/lib64/libsystemd.so.0.23.0
+ Map name: /usr/lib64/libsystemd.so.0.23.0
+ Start address: 139625276014592
+ End address: 139625278107648
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0b1a7000-7efd0b1aa000 r--p 0009f000 fd:00 33866884                   /usr/lib64/libsystemd.so.0.23.0
+ Map name: /usr/lib64/libsystemd.so.0.23.0
+ Start address: 139625278107648
+ End address: 139625278119936
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0b1aa000-7efd0b1ab000 rw-p 000a2000 fd:00 33866884                   /usr/lib64/libsystemd.so.0.23.0
+ Map name: /usr/lib64/libsystemd.so.0.23.0
+ Start address: 139625278119936
+ End address: 139625278124032
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0b1b0000-7efd0b1b3000 r-xp 00000000 fd:00 34096155                   /usr/lib64/libgmodule-2.0.so.0.5600.4
+ Map name: /usr/lib64/libgmodule-2.0.so.0.5600.4
+ Start address: 139625278144512
+ End address: 139625278156800
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0b1b3000-7efd0b3b2000 ---p 00003000 fd:00 34096155                   /usr/lib64/libgmodule-2.0.so.0.5600.4
+ Map name: /usr/lib64/libgmodule-2.0.so.0.5600.4
+ Start address: 139625278156800
+ End address: 139625280249856
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0b3b2000-7efd0b3b3000 r--p 00002000 fd:00 34096155                   /usr/lib64/libgmodule-2.0.so.0.5600.4
+ Map name: /usr/lib64/libgmodule-2.0.so.0.5600.4
+ Start address: 139625280249856
+ End address: 139625280253952
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0b3b3000-7efd0b3b4000 rw-p 00003000 fd:00 34096155                   /usr/lib64/libgmodule-2.0.so.0.5600.4
+ Map name: /usr/lib64/libgmodule-2.0.so.0.5600.4
+ Start address: 139625280253952
+ End address: 139625280258048
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0b3b8000-7efd0b572000 r-xp 00000000 fd:00 33562503                   /usr/lib64/libc-2.28.so
+ Map name: /usr/lib64/libc-2.28.so
+ Start address: 139625280274432
+ End address: 139625282084864
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0b572000-7efd0b771000 ---p 001ba000 fd:00 33562503                   /usr/lib64/libc-2.28.so
+ Map name: /usr/lib64/libc-2.28.so
+ Start address: 139625282084864
+ End address: 139625284177920
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0b771000-7efd0b775000 r--p 001b9000 fd:00 33562503                   /usr/lib64/libc-2.28.so
+ Map name: /usr/lib64/libc-2.28.so
+ Start address: 139625284177920
+ End address: 139625284194304
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0b775000-7efd0b777000 rw-p 001bd000 fd:00 33562503                   /usr/lib64/libc-2.28.so
+ Map name: /usr/lib64/libc-2.28.so
+ Start address: 139625284194304
+ End address: 139625284202496
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0b780000-7efd0b797000 r-xp 00000000 fd:00 33554574                   /usr/lib64/libgcc_s-8-20190507.so.1
+ Map name: /usr/lib64/libgcc_s-8-20190507.so.1
+ Start address: 139625284239360
+ End address: 139625284333568
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0b797000-7efd0b996000 ---p 00017000 fd:00 33554574                   /usr/lib64/libgcc_s-8-20190507.so.1
+ Map name: /usr/lib64/libgcc_s-8-20190507.so.1
+ Start address: 139625284333568
+ End address: 139625286426624
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0b996000-7efd0b997000 r--p 00016000 fd:00 33554574                   /usr/lib64/libgcc_s-8-20190507.so.1
+ Map name: /usr/lib64/libgcc_s-8-20190507.so.1
+ Start address: 139625286426624
+ End address: 139625286430720
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0b997000-7efd0b998000 rw-p 00017000 fd:00 33554574                   /usr/lib64/libgcc_s-8-20190507.so.1
+ Map name: /usr/lib64/libgcc_s-8-20190507.so.1
+ Start address: 139625286430720
+ End address: 139625286434816
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0b998000-7efd0baae000 r-xp 00000000 fd:00 34096153                   /usr/lib64/libglib-2.0.so.0.5600.4
+ Map name: /usr/lib64/libglib-2.0.so.0.5600.4
+ Start address: 139625286434816
+ End address: 139625287573504
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0baae000-7efd0bcae000 ---p 00116000 fd:00 34096153                   /usr/lib64/libglib-2.0.so.0.5600.4
+ Map name: /usr/lib64/libglib-2.0.so.0.5600.4
+ Start address: 139625287573504
+ End address: 139625289670656
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0bcae000-7efd0bcaf000 r--p 00116000 fd:00 34096153                   /usr/lib64/libglib-2.0.so.0.5600.4
+ Map name: /usr/lib64/libglib-2.0.so.0.5600.4
+ Start address: 139625289670656
+ End address: 139625289674752
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0bcaf000-7efd0bcb0000 rw-p 00117000 fd:00 34096153                   /usr/lib64/libglib-2.0.so.0.5600.4
+ Map name: /usr/lib64/libglib-2.0.so.0.5600.4
+ Start address: 139625289674752
+ End address: 139625289678848
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0bcb8000-7efd0bd09000 r-xp 00000000 fd:00 34096157                   /usr/lib64/libgobject-2.0.so.0.5600.4
+ Map name: /usr/lib64/libgobject-2.0.so.0.5600.4
+ Start address: 139625289711616
+ End address: 139625290043392
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0bd09000-7efd0bf09000 ---p 00051000 fd:00 34096157                   /usr/lib64/libgobject-2.0.so.0.5600.4
+ Map name: /usr/lib64/libgobject-2.0.so.0.5600.4
+ Start address: 139625290043392
+ End address: 139625292140544
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0bf09000-7efd0bf0a000 r--p 00051000 fd:00 34096157                   /usr/lib64/libgobject-2.0.so.0.5600.4
+ Map name: /usr/lib64/libgobject-2.0.so.0.5600.4
+ Start address: 139625292140544
+ End address: 139625292144640
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0bf0a000-7efd0bf0b000 rw-p 00052000 fd:00 34096157                   /usr/lib64/libgobject-2.0.so.0.5600.4
+ Map name: /usr/lib64/libgobject-2.0.so.0.5600.4
+ Start address: 139625292144640
+ End address: 139625292148736
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0bf10000-7efd0c0af000 r-xp 00000000 fd:00 34096151                   /usr/lib64/libgio-2.0.so.0.5600.4
+ Map name: /usr/lib64/libgio-2.0.so.0.5600.4
+ Start address: 139625292169216
+ End address: 139625293869056
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c0af000-7efd0c2af000 ---p 0019f000 fd:00 34096151                   /usr/lib64/libgio-2.0.so.0.5600.4
+ Map name: /usr/lib64/libgio-2.0.so.0.5600.4
+ Start address: 139625293869056
+ End address: 139625295966208
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c2af000-7efd0c2b6000 r--p 0019f000 fd:00 34096151                   /usr/lib64/libgio-2.0.so.0.5600.4
+ Map name: /usr/lib64/libgio-2.0.so.0.5600.4
+ Start address: 139625295966208
+ End address: 139625295994880
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c2b6000-7efd0c2b7000 rw-p 001a6000 fd:00 34096151                   /usr/lib64/libgio-2.0.so.0.5600.4
+ Map name: /usr/lib64/libgio-2.0.so.0.5600.4
+ Start address: 139625295994880
+ End address: 139625295998976
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c2c0000-7efd0c2dd000 r-xp 00000000 fd:00 34262475                   /usr/lib64/libpolkit-gobject-1.so.0.0.0
+ Map name: /usr/lib64/libpolkit-gobject-1.so.0.0.0
+ Start address: 139625296035840
+ End address: 139625296154624
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c2dd000-7efd0c4dd000 ---p 0001d000 fd:00 34262475                   /usr/lib64/libpolkit-gobject-1.so.0.0.0
+ Map name: /usr/lib64/libpolkit-gobject-1.so.0.0.0
+ Start address: 139625296154624
+ End address: 139625298251776
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c4dd000-7efd0c4de000 r--p 0001d000 fd:00 34262475                   /usr/lib64/libpolkit-gobject-1.so.0.0.0
+ Map name: /usr/lib64/libpolkit-gobject-1.so.0.0.0
+ Start address: 139625298251776
+ End address: 139625298255872
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c4e0000-7efd0c508000 r-xp 00000000 fd:00 33562496                   /usr/lib64/ld-2.28.so
+ Map name: /usr/lib64/ld-2.28.so
+ Start address: 139625298264064
+ End address: 139625298427904
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c650000-7efd0c6a3000 r--p 00000000 fd:00 6721                       /usr/lib/locale/en_US.utf8/LC_CTYPE
+ Map name: /usr/lib/locale/en_US.utf8/LC_CTYPE
+ Start address: 139625299771392
+ End address: 139625300111360
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c6a8000-7efd0c6a9000 r--p 00000000 fd:00 6724                       /usr/lib/locale/en_US.utf8/LC_NUMERIC
+ Map name: /usr/lib/locale/en_US.utf8/LC_NUMERIC
+ Start address: 139625300131840
+ End address: 139625300135936
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c6b0000-7efd0c6b1000 r--p 00000000 fd:00 33562460                   /usr/lib/locale/en_US.utf8/LC_TIME
+ Map name: /usr/lib/locale/en_US.utf8/LC_TIME
+ Start address: 139625300164608
+ End address: 139625300168704
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c6b8000-7efd0c6b9000 r--p 00000000 fd:00 33562458                   /usr/lib/locale/en_US.utf8/LC_MONETARY
+ Map name: /usr/lib/locale/en_US.utf8/LC_MONETARY
+ Start address: 139625300197376
+ End address: 139625300201472
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c6c0000-7efd0c6c1000 r--p 00000000 fd:00 33562470                   /usr/lib/locale/en_US.utf8/LC_MESSAGES/SYS_LC_MESSAGES
+ Map name: /usr/lib/locale/en_US.utf8/LC_MESSAGES/SYS_LC_MESSAGES
+ Start address: 139625300230144
+ End address: 139625300234240
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c6c8000-7efd0c6c9000 r--p 00000000 fd:00 100670672                  /usr/lib/locale/en_US.utf8/LC_PAPER
+ Map name: /usr/lib/locale/en_US.utf8/LC_PAPER
+ Start address: 139625300262912
+ End address: 139625300267008
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c6d0000-7efd0c6d1000 r--p 00000000 fd:00 6723                       /usr/lib/locale/en_US.utf8/LC_NAME
+ Map name: /usr/lib/locale/en_US.utf8/LC_NAME
+ Start address: 139625300295680
+ End address: 139625300299776
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c6d8000-7efd0c6d9000 r--p 00000000 fd:00 33562455                   /usr/lib/locale/en_US.utf8/LC_ADDRESS
+ Map name: /usr/lib/locale/en_US.utf8/LC_ADDRESS
+ Start address: 139625300328448
+ End address: 139625300332544
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c6e0000-7efd0c6e1000 r--p 00000000 fd:00 33562459                   /usr/lib/locale/en_US.utf8/LC_TELEPHONE
+ Map name: /usr/lib/locale/en_US.utf8/LC_TELEPHONE
+ Start address: 139625300361216
+ End address: 139625300365312
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c6f0000-7efd0c6f1000 r--p 00000000 fd:00 33562457                   /usr/lib/locale/en_US.utf8/LC_MEASUREMENT
+ Map name: /usr/lib/locale/en_US.utf8/LC_MEASUREMENT
+ Start address: 139625300426752
+ End address: 139625300430848
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c700000-7efd0c701000 r--p 00000000 fd:00 33562456                   /usr/lib/locale/en_US.utf8/LC_IDENTIFICATION
+ Map name: /usr/lib/locale/en_US.utf8/LC_IDENTIFICATION
+ Start address: 139625300492288
+ End address: 139625300496384
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c708000-7efd0c709000 r--p 00028000 fd:00 33562496                   /usr/lib64/ld-2.28.so
+ Map name: /usr/lib64/ld-2.28.so
+ Start address: 139625300525056
+ End address: 139625300529152
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7efd0c709000-7efd0c70a000 rw-p 00029000 fd:00 33562496                   /usr/lib64/ld-2.28.so
+ Map name: /usr/lib64/ld-2.28.so
+ Start address: 139625300529152
+ End address: 139625300533248
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7ffec2d1e000-7ffec2d3f000 rw-p 00000000 00:00 0                          [stack]
+ Map name: [stack]
+ Start address: 140732166955008
+ End address: 140732167090176
+ Permissions: rw-
+Dependent attributes:
+ Section 0
+
+memmap_size(maps[0]) results in: 167936
+memmap_size(maps[1]) results in: 16384
+memmap_size(maps[2]) results in: 4096
+linking_type(maps) results in: dynamic
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+total_bytes_of_section_type(maps, TEXT): 167936
+total_bytes_of_section_type(maps, RODATA): 16384
+total_bytes_of_section_type(maps, DATA): 4096
+total_bytes_of_section_type(maps, HEAP): 798720
+total_bytes_of_section_type(maps, SHAREDLIB): 92327936
+total_bytes_of_section_type(maps, STACK): 135168
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+total_bytes_of_file_type(maps, SHARED_OBJ_FILE): 92327936
+total_bytes_of_file_type(maps, EXEC_OBJ_FILE): 188416
+total_bytes_of_file_type(maps, NA): 933888
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+total_pages_of_section_type(maps, TEXT): 41
+total_pages_of_section_type(maps, RODATA): 4
+total_pages_of_section_type(maps, DATA): 1
+total_pages_of_section_type(maps, HEAP): 195
+total_pages_of_section_type(maps, SHAREDLIB): 22541
+total_pages_of_section_type(maps, STACK): 33
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+total_pages_of_file_type(maps, SHARED_OBJ_FILE): 22541
+total_pages_of_file_type(maps, EXEC_OBJ_FILE)): 46
+total_pages_of_file_type(maps, NA): 228

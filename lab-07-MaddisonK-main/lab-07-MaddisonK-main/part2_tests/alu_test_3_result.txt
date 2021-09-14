@@ -1,0 +1,1 @@
+Enter Sub bit: Enter Bool bits: Enter shift bit: Enter math bit: Enter A value: 0xEnter B value: 0x0x000F00D0

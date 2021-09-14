@@ -1,0 +1,5 @@
+00400000-004b6000 r-xp 00000000 00:57 23843046                           /mnt/learncli/workdir/tmp/bb
+006b6000-006bc000 rw-p 000b6000 00:57 23843046                           /mnt/learncli/workdir/tmp/bb
+006bc000-006bd000 rw-p 00000000 00:00 0 
+0070a000-0072d000 rw-p 00000000 00:00 0                                  [heap]
+7ffc2f3de000-7ffc2f3ff000 rw-p 00000000 00:00 0                          [stack]

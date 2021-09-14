@@ -1,0 +1,7 @@
+x
+xx
+1
+1
+mathmux
+0000f00d
+0000beef

@@ -1,0 +1,123 @@
+pprint of all maps results in: 
+Original text: 00400000-00401000 r-xp 00000000 fd:02 40953                              /home/bmunsell/tmp/bb
+ Map name: /home/bmunsell/tmp/bb
+ Start address: 4194304
+ End address: 4198400
+ Permissions: r-x
+Dependent attributes:
+ Section 3
+
+Original text: 00600000-00601000 r--p 00000000 fd:02 40953                              /home/bmunsell/tmp/bb
+ Map name: /home/bmunsell/tmp/bb
+ Start address: 6291456
+ End address: 6295552
+ Permissions: r--
+Dependent attributes:
+ Section 4
+
+Original text: 00601000-00602000 rw-p 00001000 fd:02 40953                              /home/bmunsell/tmp/bb
+ Map name: /home/bmunsell/tmp/bb
+ Start address: 6295552
+ End address: 6299648
+ Permissions: rw-
+Dependent attributes:
+ Section 5
+
+Original text: 00bb4000-00bd5000 rw-p 00000000 00:00 0                                  [heap]
+ Map name: [heap]
+ Start address: 12271616
+ End address: 12406784
+ Permissions: rw-
+Dependent attributes:
+ Section 2
+
+Original text: 7f39a6d70000-7f39a6f2a000 r-xp 00000000 fd:00 33562503                   /usr/lib64/libc-2.28.so
+ Map name: /usr/lib64/libc-2.28.so
+ Start address: 139885588971520
+ End address: 139885590781952
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7f39a6f2a000-7f39a7129000 ---p 001ba000 fd:00 33562503                   /usr/lib64/libc-2.28.so
+ Map name: /usr/lib64/libc-2.28.so
+ Start address: 139885590781952
+ End address: 139885592875008
+ Permissions: ---
+Dependent attributes:
+ Section 1
+
+Original text: 7f39a7129000-7f39a712d000 r--p 001b9000 fd:00 33562503                   /usr/lib64/libc-2.28.so
+ Map name: /usr/lib64/libc-2.28.so
+ Start address: 139885592875008
+ End address: 139885592891392
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7f39a712d000-7f39a712f000 rw-p 001bd000 fd:00 33562503                   /usr/lib64/libc-2.28.so
+ Map name: /usr/lib64/libc-2.28.so
+ Start address: 139885592891392
+ End address: 139885592899584
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7f39a7138000-7f39a7160000 r-xp 00000000 fd:00 33562496                   /usr/lib64/ld-2.28.so
+ Map name: /usr/lib64/ld-2.28.so
+ Start address: 139885592936448
+ End address: 139885593100288
+ Permissions: r-x
+Dependent attributes:
+ Section 1
+
+Original text: 7f39a7360000-7f39a7361000 r--p 00028000 fd:00 33562496                   /usr/lib64/ld-2.28.so
+ Map name: /usr/lib64/ld-2.28.so
+ Start address: 139885595197440
+ End address: 139885595201536
+ Permissions: r--
+Dependent attributes:
+ Section 1
+
+Original text: 7f39a7361000-7f39a7362000 rw-p 00029000 fd:00 33562496                   /usr/lib64/ld-2.28.so
+ Map name: /usr/lib64/ld-2.28.so
+ Start address: 139885595201536
+ End address: 139885595205632
+ Permissions: rw-
+Dependent attributes:
+ Section 1
+
+Original text: 7fff3c995000-7fff3c9b6000 rw-p 00000000 00:00 0                          [stack]
+ Map name: [stack]
+ Start address: 140734210068480
+ End address: 140734210203648
+ Permissions: rw-
+Dependent attributes:
+ Section 0
+
+memmap_size(maps[0]) results in: 4096
+memmap_size(maps[1]) results in: 4096
+memmap_size(maps[2]) results in: 4096
+linking_type(maps) results in: dynamic
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+total_bytes_of_section_type(maps, TEXT): 4096
+total_bytes_of_section_type(maps, RODATA): 4096
+total_bytes_of_section_type(maps, DATA): 4096
+total_bytes_of_section_type(maps, HEAP): 135168
+total_bytes_of_section_type(maps, SHAREDLIB): 4100096
+total_bytes_of_section_type(maps, STACK): 135168
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+total_bytes_of_file_type(maps, SHARED_OBJ_FILE): 4100096
+total_bytes_of_file_type(maps, EXEC_OBJ_FILE): 12288
+total_bytes_of_file_type(maps, NA): 270336
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+total_pages_of_section_type(maps, TEXT): 1
+total_pages_of_section_type(maps, RODATA): 1
+total_pages_of_section_type(maps, DATA): 1
+total_pages_of_section_type(maps, HEAP): 33
+total_pages_of_section_type(maps, SHAREDLIB): 1001
+total_pages_of_section_type(maps, STACK): 33
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+total_pages_of_file_type(maps, SHARED_OBJ_FILE): 1001
+total_pages_of_file_type(maps, EXEC_OBJ_FILE)): 3
+total_pages_of_file_type(maps, NA): 66
