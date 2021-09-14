@@ -1,0 +1,8 @@
+Sorting priority in ascending order:
+[priority: 1 value: 4 count: 11]
+[priority: 2 value: -5 count: 5]
+[priority: 3 value: 24 count: 3]
+[priority: 5 value: 9 count: 4]
+[priority: 8 value: -2 count: 3]
+[priority: 9 value: 11 count: 3]
+[priority: 20 value: 5 count: 3]

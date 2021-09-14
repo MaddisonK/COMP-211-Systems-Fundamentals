@@ -1,0 +1,9 @@
+This line is under 40 characters long
+This line is over 40 characters long, se
+e?
+This line is soooooooooooooooooo looooou
+oooooooooooooooooooooooooooooooooooooooo
+oooong!
+
+Total lines over 40 chars: 2
+Offending lines: 1, 2, 
